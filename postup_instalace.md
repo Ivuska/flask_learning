@@ -9,11 +9,18 @@ GITHUB
 
 	* [dokumentace a videonávody k GitHubu](https://guides.github.com/)
 
-- [ ] všichni, kdo budou pracovat na aplikaci(resp. chtějí mít právo posílat o a/nebo upravovat soubory v repozitáři k aplikaci) muesjí mít založený účet na GiHubu. 
+- [ ] všichni, kdo budou pracovat na aplikaci(resp. chtějí mít právo posílat o a/nebo upravovat soubory v repozitáři k aplikaci) musejí mít založený účet na GiHubu. 
 
-- Repozitář s aplikací je ale pouze na **jednom** účtu a ostatní účastníci projektu jsou do něj přidání jako *collaborator*.
+- Repozitář s aplikací je ale pouze na **jednom** účtu a ostatní účastníci projektu jsou do něj přidání jako *collaborator*. 
 
-- 
+- Repozitář si nejlépe **naklonujeme**:
+	* na hlavní stránce daného repozitáře klikneme na `Clone or download`.
+	* otevře se okýnko s odkazem, ten si skopírujeme.
+	* ve Visual Studio Code klikneme na View a hned nahoře *Command Pallete* (lze také použít zkratku `Ctrl + Shift + P`).
+	* do Command Pallete napíšeme `git: Clone` a odklepneme `Enterem`.
+	* Vložíme zkopírovaný odkaz z GitHubu.
+	* vybereme, kde chceme v počítači složku se soubory uložit (a kam se nám také budou ukládat naše změny) a potvrdíme. 
+	* dole se otevře dialogové okno, kde odklepneme, zda chceme danou složku otevřít v tomto okně nebo v nově otevřeném.	
 
 HEROKU
 ------
